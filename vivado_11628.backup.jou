@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Tue Sep 22 16:50:48 2026
+# Process ID         : 11628
+# Current directory  : D:/kuliah/SEMESTER 3/PRAKTIKUM SISTEM TERTANAM/project_1/project_1.runs/impl_1
+# Command line       : vivado.exe -log top_reg8_en.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_reg8_en.tcl -notrace
+# Log file           : D:/kuliah/SEMESTER 3/PRAKTIKUM SISTEM TERTANAM/project_1/project_1.runs/impl_1/top_reg8_en.vdi
+# Journal file       : D:/kuliah/SEMESTER 3/PRAKTIKUM SISTEM TERTANAM/project_1/project_1.runs/impl_1\vivado.jou
+# Running On         : Erlanda
+# Platform           : Windows 11
+# Operating System   : 26200
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450HX
+# CPU Frequency      : 2688 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 12595 MB
+# Swap memory        : 10737 MB
+# Total Virtual      : 23332 MB
+# Available Virtual  : 8715 MB
+#-----------------------------------------------------------
+source top_reg8_en.tcl -notrace
